@@ -46,7 +46,7 @@ Welcome to my digital portfolio! I'm a student deeply passionate about backend d
             <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30">
         </td>
         <td align="center">
-            <img src="https://www.svgrepo.com/show/373458/aws.svg" alt="aws" width="30" height="30">
+            <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373458/aws.svg" alt="aws" width="30" height="30"></a>
             <img src="https://www.svgrepo.com/show/331732/microsoft-azure.svg" alt="azure" width="30" height="30">
             <img src="https://www.svgrepo.com/show/303231/docker-logo.svg" alt="docker" width="30" height="30">
             <img src="https://www.svgrepo.com/show/448233/kubernetes.svg" alt="kubernetes" width="30" height="30">
