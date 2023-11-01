@@ -1,6 +1,8 @@
 ### whoami
 Hello! This is my digital portfolio. I'm a student who loves backend and web development, with a touch of 𝘵𝘦𝘴𝘵 𝘢𝘶𝘵𝘰𝘮𝘢𝘵𝘪𝘰𝘯. Using my knowledge and creativity, I aim to make useful digital tools!
 
+![4e028q](https://github.com/pnrjason/pnrjason/assets/39984351/765c3c4c-a64f-4f92-9028-f5f8cbc9b765)
+
 ### Connect
 <p align="left">
 <img align="center" src="https://www.svgrepo.com/show/331368/discord-v2.svg" height="20" width="30"/>Raizo666
