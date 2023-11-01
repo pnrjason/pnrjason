@@ -31,10 +31,4 @@ Welcome to my digital portfolio! I'm a student deeply passionate about backend d
     <td align="center"><img src="URL_FOR_NODE" width="30" height="30"></td>
     <td align="center"><img src="URL_FOR_MONGODB" width="30" height="30"></td>
   </tr>
-  <tr>
-    <td align="center"><img src="URL_FOR_PYTHON" width="30" height="30"></td>
-    <td align="center"><img src="URL_FOR_EXPRESS" width="30" height="30"></td>
-    <td align="center"><img src="URL_FOR_MYSQL" width="30" height="30"></td>
-  </tr>
-  <!-- ... and so on for other icons -->
 </table>
