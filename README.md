@@ -1,12 +1,15 @@
 ### About Me
 Welcome to my digital portfolio! I'm a student deeply passionate about backend development. My primary focus lies in web development and automation. Combining my technical know-how with a fondness for creative problem-solving, I'm dedicated to crafting distinctive and effective digital solutions.
 
-### Contact
+### Connect
 <p align="left">
 <img align="center" src="https://www.svgrepo.com/show/452188/discord.svg" alt="Raizo666" height="30" width="40"/>Raizo666
 </p>
 <p align="left">
 <img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" alt="Raizo666" height="30" width="40"/>Raizo666
+</p>
+<p align="left">
+<img align="center" src="https://www.svgrepo.com/show/452094/reddit.svg" alt="Raizo666" height="30" width="40"/>Raizo666
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
