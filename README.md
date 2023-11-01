@@ -36,6 +36,7 @@ Welcome to my digital portfolio! I'm a student deeply passionate about backend d
     </a>
     <br>
     • Backend Development
+    <br>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/354118/nodejs.svg" alt="nodejs" width="35" height="35" />
     </a>
@@ -44,6 +45,7 @@ Welcome to my digital portfolio! I'm a student deeply passionate about backend d
     </a>
     <br>
     • Database
+    <br>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/303232/mongodb-logo.svg" alt="mongodb" width="35" height="35" />
     </a>
@@ -61,6 +63,7 @@ Welcome to my digital portfolio! I'm a student deeply passionate about backend d
     </a>
     <br>
     • Devops
+    <br>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/373458/aws.svg" alt="aws" width="35" height="35" />
     </a>
@@ -75,16 +78,19 @@ Welcome to my digital portfolio! I'm a student deeply passionate about backend d
     </a>
     <br>
     • Framework
+    <br>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/353985/laravel.svg" alt="laravel" width="35" height="35" />
     </a>
     <br>
     • Testing and Automation
+    <br>
     <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer">
         <img src="https://avatars.githubusercontent.com/u/89237858?s=48&v=4" alt="puppeteer" width="35" height="35" />
     </a>
     <br>
     • Software
+    <br>
     <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="35" height="35" />
     </a>
