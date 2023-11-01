@@ -15,7 +15,7 @@ Welcome to my digital portfolio! I'm a student deeply passionate about backend d
 <img align="center" src="https://www.svgrepo.com/show/448251/twitch.svg" height="20" width="30"/>AurumSora
 </p>
 
-### Languages and Tools
+### Languages
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/373458/aws.svg" alt="aws" width="35" height="35" />
@@ -76,5 +76,12 @@ Welcome to my digital portfolio! I'm a student deeply passionate about backend d
   </a>
   <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="30" height="30" />
+  </a>
+</p>
+
+### Tools
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/373458/aws.svg" alt="aws" width="35" height="35" />
   </a>
 </p>
