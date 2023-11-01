@@ -57,7 +57,7 @@ Hello! This is my digital portfolio. I'm a student who loves backend and web dev
         </td>
         <td align="center">
             <a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353985/laravel.svg" alt="laravel" width="30" height="30"></a>
-            <a href="flask.palletsprojects.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/508915/flask.svg" alt="flask" width="30" height="30"></a>
+            <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/508915/flask.svg" alt="flask" width="30" height="30"></a>
         </td>
         <td align="center">
             <a href="https://playwright.dev" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/89237858?s=48&v=4" alt="playwright" width="30" height="30"></a>
