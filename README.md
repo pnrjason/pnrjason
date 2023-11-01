@@ -1,5 +1,5 @@
 ### whoami
-Hello! This is my digital portfolio. I'm a student who loves backend and web development, with a touch of automation. Using my knowledge and creativity, I aim to make useful digital tools!
+Hello! This is my digital portfolio. I'm a student who loves backend and web development, with a touch of testing and automation. Using my knowledge and creativity, I aim to make useful digital tools!
 
 ### Connect
 <p align="left">
