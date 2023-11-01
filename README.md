@@ -10,7 +10,10 @@ Welcome to my digital portfolio! I'm a student deeply passionate about backend d
  
 • Python
 
-• JavaScript (NodeJS + Express)
+• JavaScript
+
+	- NodeJS
+	- Express
 
 • C#
 
