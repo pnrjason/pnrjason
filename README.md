@@ -16,39 +16,12 @@ Welcome to my digital portfolio! I'm a student deeply passionate about backend d
 </p>
 
 ### Skills
-<div class="skill-section">
-    <p align="left">
-        • Languages
-        <br>
-        <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-            <img src="https://www.svgrepo.com/show/452184/csharp.svg" alt="csharp" width="25" height="25" />
-        </a>
-        <a href="https://www.python.org" target="_blank" rel="noreferrer">
-            <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="25" height="25" />
-        </a>
-        <a href="https://www.java.com" target="_blank" rel="noreferrer">
-            <img src="https://www.svgrepo.com/show/452234/java.svg" alt="java" width="25" height="25" />
-        </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-            <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="javascript" width="25" height="25" />
-        </a>
-        <a href="https://www.php.net" target="_blank" rel="noreferrer">
-            <img src="https://www.svgrepo.com/show/452088/php.svg" alt="php" width="25" height="25" />
-        </a>
-    </p>
-</div>
 
-<div class="skill-section">
-    <p align="left">
-        • Backend Development
-        <br>
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-            <img src="https://www.svgrepo.com/show/439238/nodejs.svg" alt="nodejs" width="25" height="25" />
-        </a>
-        <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="25" height="25" />
-        </a>
-    </p>
-</div>
-
-<div class="clear-float"></div>
+| | | |
+|:---:|:---:|:---:|
+| **Languages** | **Backend Development** | **Database** |
+| ![csharp](https://www.svgrepo.com/show/452184/csharp.svg) | ![nodejs](https://www.svgrepo.com/show/439238/nodejs.svg) | ![mongodb](https://www.svgrepo.com/show/331488/mongodb.svg) |
+| ![python](https://www.svgrepo.com/show/452091/python.svg) | ![express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg) | ![mysql](https://seeklogo.com/images/M/mysql-logo-B4943FE6DD-seeklogo.com.png) |
+| ![java](https://www.svgrepo.com/show/452234/java.svg) | | ![postgresql](https://www.svgrepo.com/show/303301/postgresql-logo.svg) |
+| ![javascript](https://www.svgrepo.com/show/353925/javascript.svg) | | ![redis](https://www.svgrepo.com/show/354272/redis.svg) |
+| ![php](https://www.svgrepo.com/show/452088/php.svg) | | ![mssql](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg) |
