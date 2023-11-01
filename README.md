@@ -38,7 +38,7 @@ Welcome to my digital portfolio! I'm a student deeply passionate about backend d
     • Backend Development
     <br>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/354118/nodejs.svg" alt="nodejs" width="25" height="25" />
+        <img src="https://www.svgrepo.com/show/439238/nodejs.svg" alt="nodejs" width="25" height="25" />
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="25" height="25" />
