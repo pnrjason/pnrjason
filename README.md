@@ -4,7 +4,10 @@ Hello! This is my digital portfolio. I'm a student who loves backend and web dev
 <img src="https://github.com/pnrjason/pnrjason/assets/39984351/765c3c4c-a64f-4f92-9028-f5f8cbc9b765" width="50%" height="50%">
 
 ### Connect
+<p align="left">
 <a href="https://discord.gg/" target="_blank"><img src="https://www.svgrepo.com/show/331368/discord-v2.svg" alt="php" width="20" height="30"></a>Raizo666
+</p>
+
 <p align="left">
 <img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" height="20" width="30"/>Raizo666
 </p>
