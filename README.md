@@ -94,4 +94,7 @@ Welcome to my digital portfolio! I'm a student deeply passionate about backend d
     <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="25" height="25" />
     </a>
+    <a href="https://insomnia.rest" target="_blank" rel="noreferrer">
+        <img src="https://www.svgrepo.com/show/353904/insomnia.svg" alt="insomnia" width="25" height="25" />
+    </a>
 </p>
