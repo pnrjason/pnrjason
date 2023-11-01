@@ -27,8 +27,17 @@ Welcome to my digital portfolio! I'm a student deeply passionate about backend d
     <td align="center">Software</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://www.svgrepo.com/show/452184/csharp.svg" width="30" height="30"><img src="https://www.svgrepo.com/show/452091/python.svg" width="30" height="30"><img src="https://www.svgrepo.com/show/452234/java.svg" width="30" height="30"></td>
-    <td align="center"><img src="URL_FOR_NODE" width="30" height="30"></td>
-    <td align="center"><img src="URL_FOR_MONGODB" width="30" height="30"></td>
+    <td align="center">
+      <img src="https://www.svgrepo.com/show/452184/csharp.svg" width="30" height="30">
+      <img src="https://www.svgrepo.com/show/452091/python.svg" width="30" height="30">
+      <img src="https://www.svgrepo.com/show/452234/java.svg" width="30" height="30">
+      <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="javascript" width="30" height="30" />
+      <img src="https://www.svgrepo.com/show/452088/php.svg" alt="php" width="30" height="30" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><img src="URL_FOR_PYTHON" width="30" height="30"></td>
+    <td align="center"><img src="URL_FOR_EXPRESS" width="30" height="30"></td>
+    <td align="center"><img src="URL_FOR_MYSQL" width="30" height="30"></td>
   </tr>
 </table>
