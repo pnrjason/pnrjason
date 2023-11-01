@@ -25,7 +25,7 @@ Hello! This is my digital portfolio. I'm a student who loves backend and web dev
         <td align="center">Languages</td>
         <td align="center">Backend Development</td>
         <td align="center">Database</td>
-        <td align="center">Devops</td>
+        <td align="center">DevOps</td>
         <td align="center">Framework</td>
         <td align="center">Testing and Automation</td>
         <td align="center">Software</td>
