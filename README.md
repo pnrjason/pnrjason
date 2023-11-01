@@ -8,9 +8,9 @@ From a young age, I've been intrigued by the complicated mechanics behind digita
 
 ### Expertise
 
-• PHP
-• Python
-• JavaScript
-• C#
-• Databasing
-• Kubernetes
+PHP (Laravel)
+Python
+JavaScript (NodeJS + Express)
+C#
+Databasing
+Kubernetes
