@@ -21,7 +21,7 @@ Welcome to my digital portfolio! I'm a student deeply passionate about backend d
     <img src="https://www.svgrepo.com/show/373458/aws.svg" alt="aws" width="30" height="30" />
   </a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="30" height="30" />
+    <img src="https://www.svgrepo.com/show/331732/microsoft-azure.svg" alt="azure" width="30" height="30" />
   </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30" />
