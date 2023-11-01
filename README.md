@@ -16,16 +16,6 @@ Welcome to my digital portfolio! I'm a student deeply passionate about backend d
 </p>
 
 ### Skills
-<style>
-    .skill-section {
-        float: left;
-        margin-right: 30px;
-    }
-    .clear-float {
-        clear: both;
-    }
-</style>
-
 <div class="skill-section">
     <p align="left">
         • Languages
