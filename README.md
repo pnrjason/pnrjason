@@ -1,7 +1,7 @@
 ### whoami
 Welcome to my digital portfolio! I'm a student deeply passionate about backend development. My primary focus lies in web development and automation. Combining my technical know-how with a fondness for creative problem-solving, I'm dedicated to crafting distinctive and effective digital solutions.
 
-### Connect
+### connect
 <p align="left">
 <img align="center" src="https://www.svgrepo.com/show/331368/discord-v2.svg" height="20" width="30"/>Raizo666
 </p>
@@ -15,7 +15,7 @@ Welcome to my digital portfolio! I'm a student deeply passionate about backend d
 <img align="center" src="https://www.svgrepo.com/show/448251/twitch.svg" height="20" width="30"/>AurumSora
 </p>
 
-### Skills
+### skills
 <table>
     <tr>
         <td align="center">Languages</td>
