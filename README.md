@@ -100,4 +100,7 @@ Welcome to my digital portfolio! I'm a student deeply passionate about backend d
     <a href="https://insomnia.rest" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/353904/insomnia.svg" alt="insomnia" width="25" height="25" />
     </a>
+    <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
+        <img src="https://www.whiteoaksecurity.com/wp-content/uploads/2021/04/gc1CWg37_400x400-300x300.jpg" alt="burp suite" width="25" height="25" />
+    </a>
 </p>
