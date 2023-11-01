@@ -1,5 +1,5 @@
 ### whoami
-Welcome to my digital portfolio! I'm a student deeply passionate about backend development. My primary focus lies in web development and automation. Combining my technical know-how with a fondness for creative problem-solving, I'm dedicated to crafting distinctive and effective digital solutions.
+Hello! This is my digital portfolio. I'm a student who loves backend and web development, with a touch of automation Using my knowledge and creativity, I aim to make useful digital tools.
 
 ### Connect
 <p align="left">
