@@ -3,7 +3,7 @@ Welcome to my digital portfolio! I'm a student deeply passionate about backend d
 
 ### Contact
 <p align="left">
-<a href="https://discord.gg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Raizo666" height="30" width="40" />Raizo666</a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Raizo666" height="30" width="40"/>Raizo666
 </p>
 <p align="left">
 <a href="https://t.me/Raizo666" target="blank"><img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" alt="Raizo666" height="30" width="40" /></a>
