@@ -16,10 +16,21 @@ Welcome to my digital portfolio! I'm a student deeply passionate about backend d
 </p>
 
 ### Skills
-
-| | | |
-|:---:|:---:|:---:|
-| **Languages** | **Backend Development** | **Database** |
-| <img src="URL_FOR_C#" width="30" height="30"> | <img src="URL_FOR_NODE" width="30" height="30"> | <img src="URL_FOR_MONGODB" width="30" height="30"> |
-| <img src="URL_FOR_PYTHON" width="30" height="30"> | <img src="URL_FOR_EXPRESS" width="30" height="30"> | <img src="URL_FOR_MYSQL" width="30" height="30"> |
-| ... and so on for other icons |
+<table>
+  <tr>
+    <td align="center">Languages</td>
+    <td align="center">Backend Development</td>
+    <td align="center">Database</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="URL_FOR_C#" width="30" height="30"></td>
+    <td align="center"><img src="URL_FOR_NODE" width="30" height="30"></td>
+    <td align="center"><img src="URL_FOR_MONGODB" width="30" height="30"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="URL_FOR_PYTHON" width="30" height="30"></td>
+    <td align="center"><img src="URL_FOR_EXPRESS" width="30" height="30"></td>
+    <td align="center"><img src="URL_FOR_MYSQL" width="30" height="30"></td>
+  </tr>
+  <!-- ... and so on for other icons -->
+</table>
