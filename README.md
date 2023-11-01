@@ -39,29 +39,29 @@ Welcome to my digital portfolio! I'm a student deeply passionate about backend d
             <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"></a>
         </td>
         <td align="center">
-            <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" width="30" height="30">
-            <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="30" height="30">
-            <img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" alt="postgresql" width="30" height="30">
-            <img src="https://www.svgrepo.com/show/354272/redis.svg" alt="redis" width="30" height="30">
-            <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30">
+            <a href="https://www.mongodb.com" target="_blank"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" width="30" height="30"></a>
+            <a href="https://www.mysql.com" target="_blank"><img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="30" height="30"></a>
+            <a href="https://www.postgresql.org" target="_blank"><img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" alt="postgresql" width="30" height="30"></a>
+            <a href="https://redis.io" target="_blank"><img src="https://www.svgrepo.com/show/354272/redis.svg" alt="redis" width="30" height="30"></a>
+            <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30"></a>
         </td>
         <td align="center">
             <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373458/aws.svg" alt="aws" width="30" height="30"></a>
-            <img src="https://www.svgrepo.com/show/331732/microsoft-azure.svg" alt="azure" width="30" height="30">
-            <img src="https://www.svgrepo.com/show/303231/docker-logo.svg" alt="docker" width="30" height="30">
-            <img src="https://www.svgrepo.com/show/448233/kubernetes.svg" alt="kubernetes" width="30" height="30">
+            <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/331732/microsoft-azure.svg" alt="azure" width="30" height="30"></a>
+            <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303231/docker-logo.svg" alt="docker" width="30" height="30"></a>
+            <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/448233/kubernetes.svg" alt="kubernetes" width="30" height="30"></a>
         </td>
         <td align="center">
-            <img src="https://www.svgrepo.com/show/353985/laravel.svg" alt="laravel" width="30" height="30">
+            <a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353985/laravel.svg" alt="laravel" width="30" height="30"></a>
         </td>
         <td align="center">
-            <img src="https://avatars.githubusercontent.com/u/89237858?s=48&v=4" alt="playwright" width="30" height="30">
-            <img src="https://www.svgrepo.com/show/354228/puppeteer.svg" alt="puppeteer" width="30" height="30">
+            <a href="https://playwright.dev" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/89237858?s=48&v=4" alt="playwright" width="30" height="30"></a>
+            <a href="https://pptr.dev" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354228/puppeteer.svg" alt="puppeteer" width="30" height="30"></a>
         </td>
         <td align="center">
-            <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="30" height="30">
-            <img src="https://www.svgrepo.com/show/353904/insomnia.svg" alt="insomnia" width="30" height="30">
-            <img src="https://www.whiteoaksecurity.com/wp-content/uploads/2021/04/gc1CWg37_400x400-300x300.jpg" alt="burp suite" width="30" height="30">
+            <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="30" height="30"></a>
+            <a href="https://insomnia.rest" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353904/insomnia.svg" alt="insomnia" width="30" height="30"></a>
+            <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img src="https://www.whiteoaksecurity.com/wp-content/uploads/2021/04/gc1CWg37_400x400-300x300.jpg" alt="burp suite" width="30" height="30"></a>
         </td>
     </tr>
 </table>
