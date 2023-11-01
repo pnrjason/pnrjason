@@ -28,15 +28,15 @@ Welcome to my digital portfolio! I'm a student deeply passionate about backend d
     </tr>
     <tr>
         <td align="center">
-            <img src="https://www.svgrepo.com/show/452088/php.svg" alt="php" width="30" height="30" />
-            <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="javascript" width="30" height="30" />
-            <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="30" height="30">
-            <img src="https://www.svgrepo.com/show/452234/java.svg" alt="java" width="30" height="30">
-            <img src="https://www.svgrepo.com/show/452184/csharp.svg" alt="csharp" width="30" height="30">
+            <a href="https://www.php.net" target="_blank"><img src="https://www.svgrepo.com/show/452088/php.svg" alt="php" width="30" height="30"></a>
+            <a href="https://www.javascript.com/" target="_blank"><img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="javascript" width="30" height="30"></a>
+            <a href="https://www.python.org" target="_blank"><img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="30" height="30"></a>
+            <a href="https://www.java.com" target="_blank"><img src="https://www.svgrepo.com/show/452234/java.svg" alt="java" width="30" height="30"></a>
+            <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://www.svgrepo.com/show/452184/csharp.svg" alt="csharp" width="30" height="30"></a>
         </td>
         <td align="center">
-            <img src="https://www.svgrepo.com/show/439238/nodejs.svg" alt="nodejs" width="30" height="30">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30">
+            <a href="https://nodejs.org" target="_blank"><img src="https://www.svgrepo.com/show/439238/nodejs.svg" alt="nodejs" width="30" height="30"></a>
+            <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"></a>
         </td>
         <td align="center">
             <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" width="30" height="30">
