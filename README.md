@@ -9,11 +9,11 @@ From a young age, I've been intrigued by the complicated mechanics behind digita
 ### Expertise
 
 • PHP
-  - Laravel
+Laravel
 • Python
 • JavaScript
-  - NodeJS
-  - Express
+NodeJS
+Express
 • C#
 • Databasing
 • Kubernetes
