@@ -16,6 +16,7 @@ Welcome to my digital portfolio! I'm a student deeply passionate about backend d
 </p>
 
 ### Skills
+### Skills
 <p align="left">
     • Languages
     <br>
@@ -85,8 +86,11 @@ Welcome to my digital portfolio! I'm a student deeply passionate about backend d
     <br>
     • Testing and Automation
     <br>
+    <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+        <img src="https://avatars.githubusercontent.com/u/89237858?s=48&v=4" alt="playwright" width="25" height="25" />
+    </a>
     <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer">
-        <img src="https://avatars.githubusercontent.com/u/89237858?s=48&v=4" alt="puppeteer" width="25" height="25" />
+        <img src="https://www.svgrepo.com/show/354228/puppeteer.svg" alt="puppeteer" width="25" height="25" />
     </a>
     <br>
     • Software
