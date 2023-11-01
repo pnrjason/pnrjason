@@ -8,5 +8,4 @@ From a young age, I've been intrigued by the complicated mechanics behind digita
 
 ### Expertise
 
-• PHP
-• Python
+• PHP\n• Python
