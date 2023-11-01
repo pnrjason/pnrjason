@@ -1,9 +1,9 @@
 ### About Me
 Welcome to my digital portfolio! I'm a student deeply passionate about backend development. My primary focus lies in web development and automation. Combining my technical know-how with a fondness for creative problem-solving, I'm dedicated to crafting distinctive and effective digital solutions.
 
-<h3 align="left">Connect with me:</h3>
+### Contact
 <p align="left">
-<a href="https://discord.gg/Raizo666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Raizo666" height="30" width="40" /></a>
+<a href="https://discord.gg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Raizo666" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
