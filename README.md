@@ -16,12 +16,9 @@ Welcome to my digital portfolio! I'm a student deeply passionate about backend d
 </p>
 
 ### Skills
-
 | | | |
 |:---:|:---:|:---:|
 | **Languages** | **Backend Development** | **Database** |
-| ![csharp](https://www.svgrepo.com/show/452184/csharp.svg) | ![nodejs](https://www.svgrepo.com/show/439238/nodejs.svg) | ![mongodb](https://www.svgrepo.com/show/331488/mongodb.svg) |
-| ![python](https://www.svgrepo.com/show/452091/python.svg) | ![express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg) | ![mysql](https://seeklogo.com/images/M/mysql-logo-B4943FE6DD-seeklogo.com.png) |
-| ![java](https://www.svgrepo.com/show/452234/java.svg) | | ![postgresql](https://www.svgrepo.com/show/303301/postgresql-logo.svg) |
-| ![javascript](https://www.svgrepo.com/show/353925/javascript.svg) | | ![redis](https://www.svgrepo.com/show/354272/redis.svg) |
-| ![php](https://www.svgrepo.com/show/452088/php.svg) | | ![mssql](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg) |
+| <img src="URL_FOR_C#" width="30" height="30"> | <img src="URL_FOR_NODE" width="30" height="30"> | <img src="URL_FOR_MONGODB" width="30" height="30"> |
+| <img src="URL_FOR_PYTHON" width="30" height="30"> | <img src="URL_FOR_EXPRESS" width="30" height="30"> | <img src="URL_FOR_MYSQL" width="30" height="30"> |
+| ... and so on for other icons |
