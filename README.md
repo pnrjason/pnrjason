@@ -5,8 +5,13 @@ Welcome to my digital portfolio! I'm a student deeply passionate about backend d
 ### Expertise
 
 PHP (Laravel)
+
 Python
+
 JavaScript (NodeJS + Express)
+
 C#
+
 Databasing
+
 Kubernetes
