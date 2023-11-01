@@ -30,7 +30,7 @@ Hello! This is my digital portfolio. I'm a student who loves backend and web dev
     </tr>
     <tr>
         <td align="center">
-            <a href="https://www.php.net" target="_blank"><img src="https://www.svgrepo.com/show/452088/php.svg" alt="php" width="30" height="30"></a>
+            <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452088/php.svg" alt="php" width="30" height="30"></a>
             <a href="https://www.javascript.com/" target="_blank"><img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="javascript" width="30" height="30"></a>
             <a href="https://www.python.org" target="_blank"><img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="30" height="30"></a>
             <a href="https://www.java.com" target="_blank"><img src="https://www.svgrepo.com/show/452234/java.svg" alt="java" width="30" height="30"></a>
