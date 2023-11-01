@@ -24,10 +24,10 @@ Welcome to my digital portfolio! I'm a student deeply passionate about backend d
     <img src="https://www.svgrepo.com/show/331732/microsoft-azure.svg" alt="azure" width="35" height="35" />
   </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/452184/csharp.svg" alt="csharp" width="30" height="30" />
+    <img src="https://www.svgrepo.com/show/452184/csharp.svg" alt="csharp" width="35" height="35" />
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30" />
+    <img src="https://www.svgrepo.com/show/303231/docker-logo.svg" alt="docker" width="35" height="35" />
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30" />
