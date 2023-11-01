@@ -3,13 +3,16 @@ Welcome to my digital portfolio! I'm a student deeply passionate about backend d
 
 ### Connect
 <p align="left">
-<img align="center" src="https://www.svgrepo.com/show/452188/discord.svg" alt="Raizo666" height="30" width="40"/>Raizo666
+<img align="center" src="https://www.svgrepo.com/show/452188/discord.svg" height="20" width="30"/>Raizo666
 </p>
 <p align="left">
-<img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" alt="Raizo666" height="30" width="40"/>Raizo666
+<img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" height="20" width="30"/>Raizo666
 </p>
 <p align="left">
-<img align="center" src="https://www.svgrepo.com/show/452094/reddit.svg" alt="Raizo666" height="30" width="40"/>u/pnrjason
+<img align="center" src="https://www.svgrepo.com/show/452094/reddit.svg" height="20" width="30"/>u/pnrjason
+</p>
+<p align="left">
+<img align="center" src="https://www.svgrepo.com/show/448251/twitch.svg" height="20" width="30"/>AurumSora
 </p>
 
 ### Languages and Tools
