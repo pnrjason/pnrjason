@@ -16,7 +16,6 @@ Welcome to my digital portfolio! I'm a student deeply passionate about backend d
 </p>
 
 ### Skills
-### Skills
 <p align="left">
     • Languages
     <br>
