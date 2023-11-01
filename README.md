@@ -4,10 +4,10 @@ Welcome to my digital portfolio! I'm a student deeply passionate about backend d
 
 ### Expertise
 
-• PHP
-  - Laravel
+- PHP
+  • Laravel
 
-• Python
+- Python
 
 • JavaScript (NodeJS + Express)
 
