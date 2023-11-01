@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Raizo</h1>
-<h3 align="center">Welcome to my digital portfolio! I'm a student deeply passionate about backend development. My primary focus lies in web development and automation. Combining my technical know-how with a fondness for creative problem-solving, I'm dedicated to crafting distinctive and effective digital solutions.</h3>
+### About Me
+Welcome to my digital portfolio! I'm a student deeply passionate about backend development. My primary focus lies in web development and automation. Combining my technical know-how with a fondness for creative problem-solving, I'm dedicated to crafting distinctive and effective digital solutions.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
