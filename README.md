@@ -57,6 +57,7 @@ Hello! This is my digital portfolio. I'm a student who loves backend and web dev
         <td align="center">
             <a href="https://playwright.dev" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/89237858?s=48&v=4" alt="playwright" width="30" height="30"></a>
             <a href="https://pptr.dev" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354228/puppeteer.svg" alt="puppeteer" width="30" height="30"></a>
+            <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="selenium" width="30" height="30"></a>
         </td>
         <td align="center">
             <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="30" height="30"></a>
