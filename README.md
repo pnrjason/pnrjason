@@ -18,7 +18,7 @@ Welcome to my digital portfolio! I'm a student deeply passionate about backend d
 ### Languages and Tools
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30" />
+    <img src="https://www.svgrepo.com/show/448266/aws.svg" alt="aws" width="30" height="30" />
   </a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="30" height="30" />
