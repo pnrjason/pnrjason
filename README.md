@@ -45,5 +45,23 @@ Welcome to my digital portfolio! I'm a student deeply passionate about backend d
             <img src="https://www.svgrepo.com/show/354272/redis.svg" alt="redis" width="30" height="30">
             <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30">
         </td>
+        <td align="center">
+            <img src="https://www.svgrepo.com/show/373458/aws.svg" alt="aws" width="30" height="30">
+            <img src="https://www.svgrepo.com/show/331732/microsoft-azure.svg" alt="azure" width="30" height="30">
+            <img src="https://www.svgrepo.com/show/303231/docker-logo.svg" alt="docker" width="30" height="30">
+            <img src="https://www.svgrepo.com/show/448233/kubernetes.svg" alt="kubernetes" width="30" height="30">
+        </td>
+        <td align="center">
+            <img src="https://www.svgrepo.com/show/353985/laravel.svg" alt="laravel" width="30" height="30">
+        </td>
+        <td align="center">
+            <img src="https://avatars.githubusercontent.com/u/89237858?s=48&v=4" alt="playwright" width="30" height="30">
+            <img src="https://www.svgrepo.com/show/354228/puppeteer.svg" alt="puppeteer" width="30" height="30">
+        </td>
+        <td align="center">
+            <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="30" height="30">
+            <img src="https://www.svgrepo.com/show/353904/insomnia.svg" alt="insomnia" width="30" height="30">
+            <img src="https://www.whiteoaksecurity.com/wp-content/uploads/2021/04/gc1CWg37_400x400-300x300.jpg" alt="burp suite" width="30" height="30">
+        </td>
     </tr>
 </table>
