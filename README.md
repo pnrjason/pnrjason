@@ -35,15 +35,6 @@ Welcome to my digital portfolio! I'm a student deeply passionate about backend d
         <img src="https://www.svgrepo.com/show/452088/php.svg" alt="php" width="25" height="25" />
     </a>
     <br>
-    • Backend Development
-    <br>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/439238/nodejs.svg" alt="nodejs" width="25" height="25" />
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="25" height="25" />
-    </a>
-    <br>
     • Database
     <br>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -102,5 +93,15 @@ Welcome to my digital portfolio! I'm a student deeply passionate about backend d
     </a>
     <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
         <img src="https://www.whiteoaksecurity.com/wp-content/uploads/2021/04/gc1CWg37_400x400-300x300.jpg" alt="burp suite" width="25" height="25" />
+    </a>
+</p>
+<p align="left">
+    • Backend Development
+    <br>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://www.svgrepo.com/show/439238/nodejs.svg" alt="nodejs" width="25" height="25" />
+    </a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="25" height="25" />
     </a>
 </p>
