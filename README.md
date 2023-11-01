@@ -40,7 +40,7 @@ Welcome to my digital portfolio! I'm a student deeply passionate about backend d
         </td>
         <td align="center">
             <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" width="30" height="30">
-            <img src="https://seeklogo.com/images/M/mysql-logo-B4943FE6DD-seeklogo.com.png" alt="mysql" width="30" height="30">
+            <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="30" height="30">
             <img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" alt="postgresql" width="30" height="30">
             <img src="https://www.svgrepo.com/show/354272/redis.svg" alt="redis" width="30" height="30">
             <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30">
