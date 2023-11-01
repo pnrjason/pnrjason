@@ -9,7 +9,7 @@ Welcome to my digital portfolio! I'm a student deeply passionate about backend d
 <img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" alt="Raizo666" height="30" width="40"/>Raizo666
 </p>
 <p align="left">
-<img align="center" src="https://www.svgrepo.com/show/452094/reddit.svg" alt="Raizo666" height="30" width="40"/>Raizo666
+<img align="center" src="https://www.svgrepo.com/show/452094/reddit.svg" alt="Raizo666" height="30" width="40"/>u/pnrjason
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
