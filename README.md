@@ -1,7 +1,7 @@
 ### whoami
 Hello! This is my digital portfolio. I'm a student who loves backend and web development, with a touch of 𝘵𝘦𝘴𝘵 𝘢𝘶𝘵𝘰𝘮𝘢𝘵𝘪𝘰𝘯. Using my knowledge and creativity, I aim to make useful digital tools!
 
-![4e028q](https://github.com/pnrjason/pnrjason/assets/39984351/765c3c4c-a64f-4f92-9028-f5f8cbc9b765)
+<img src="https://github.com/pnrjason/pnrjason/assets/39984351/765c3c4c-a64f-4f92-9028-f5f8cbc9b765" width="50%" height="50%">
 
 ### Connect
 <p align="left">
