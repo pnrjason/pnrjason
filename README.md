@@ -9,14 +9,14 @@ Hello! This is my digital portfolio. I'm a student who loves backend and web dev
 <p align="left">
 <img align="center" src="https://www.svgrepo.com/show/331368/discord-v2.svg" height="20" width="30"/>Raizo666
 <img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" height="20" width="30"/>Raizo666
-</p>
-<p align="left">
-</p>
-<p align="left">
 <img align="center" src="https://www.svgrepo.com/show/452094/reddit.svg" height="20" width="30"/>u/pnrjason
+<img align="center" src="https://www.svgrepo.com/show/448251/twitch.svg" height="20" width="30"/>AurumSora
 </p>
 <p align="left">
-<img align="center" src="https://www.svgrepo.com/show/448251/twitch.svg" height="20" width="30"/>AurumSora
+</p>
+<p align="left">
+</p>
+<p align="left">
 </p>
 
 ### Skills
