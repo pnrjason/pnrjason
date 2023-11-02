@@ -8,9 +8,9 @@ Hello! This is my digital portfolio. I'm a student who loves backend and web dev
 ### Connect
 <p align="left">
 <img align="center" src="https://www.svgrepo.com/show/331368/discord-v2.svg" height="20" width="30"/>Raizo666
+<img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" height="20" width="30"/>Raizo666
 </p>
 <p align="left">
-<img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" height="20" width="30"/>Raizo666
 </p>
 <p align="left">
 <img align="center" src="https://www.svgrepo.com/show/452094/reddit.svg" height="20" width="30"/>u/pnrjason
