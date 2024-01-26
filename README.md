@@ -8,6 +8,10 @@ a degenerate carbon-based lifeform
 
 ### connect
 <p align="left">
-<img align="center" src="https://www.svgrepo.com/show/331368/discord-v2.svg" height="20" width="30"/>asd123
-<img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" height="20" width="30"/>asd123
-<img align="center" src="https://www.svgrepo.com/show/448251/twitch.svg" height="20" width="30"/>asd123
+    <img align="center" src="https://www.svgrepo.com/show/331368/discord-v2.svg" height="20" width="30"/>Raizo666
+    <a href="https://t.me/Raizo666">
+        <img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" height="20" width="30"/>
+    </a>
+    <a href="https://www.twitch.tv/AurumSora">
+        <img align="center" src="https://www.svgrepo.com/show/448251/twitch.svg" height="20" width="30"/>
+    </a>
