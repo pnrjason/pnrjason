@@ -11,4 +11,4 @@
 <img align="center" src="https://www.svgrepo.com/show/448251/twitch.svg" height="20" width="30"/>AurumSora
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pnrjason&show_icons=true&locale=en&layout=compact&theme=merko" alt="pnrjason" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pnrjason" alt="pnrjason" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pnrjason&theme=merko" alt="pnrjason" /></p>
