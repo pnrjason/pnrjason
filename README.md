@@ -7,7 +7,7 @@
 ### connect
 <p align="left">
 <img align="center" src="https://www.svgrepo.com/show/331368/discord-v2.svg" height="20" width="30"/>Raizo666
-<img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" height="20" width="30"/>Raizo666
+<img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" height="20" width="30"/>[deleted]
 <img align="center" src="https://www.svgrepo.com/show/448251/twitch.svg" height="20" width="30"/>AurumSora
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pnrjason&layout=compact&theme=merko&langs_count=8" alt="pnrjason" /></p>
